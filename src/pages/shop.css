@@ -1,0 +1,36 @@
+.shop > div {
+ border: 1px solid black;
+  border-radius: 3%;
+  width: fit-content;
+  display: inline-block;
+  text-align: center;
+  padding: 8px;
+  margin: 5px;
+  float: left;
+}
+
+.product{
+  display: inline-block;
+  background-color:#b5f7f7;
+}
+
+.list{
+  position: fixed;
+  right: 0px;
+  border: 1px dotted black;
+  padding: 6px;
+}
+
+.productListed{
+  border: 1px solid black;
+}
+
+table,  td {
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+  }
+
+th {
+  border: 1px solid black;
+  background-color: #b5f7f7;
+}
